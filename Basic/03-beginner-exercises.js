@@ -4,10 +4,23 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=4733
 */
 
 // 1. Escribe un comentario en una línea
+//comentario inline
 
 // 2. Escribe un comentario en varias líneas
+/* HOla
+comentario*/
 
 // 3. Declara variables con valores asociados a todos los datos de tipo primitivos
+let ciudad = "Barcelona"
+let cifra = 20
+let medicion = 5.5
+let hipotesis = true
+let teoria = false
+let valorNulo = null
+let undef
+let symbol1 = Symbol("symbol")
+let enteroGrande = BigInt(89029480239049340293408203489208402834028340283490829048209384902834023482834)
+let enteroGrande2 = 89029480239049340293408203489208402834028340283490829048209384902834023482834n
 
 // 4. Imprime por consola el valor de todas las variables
 
